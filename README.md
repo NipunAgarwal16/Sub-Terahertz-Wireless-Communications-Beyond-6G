@@ -200,4 +200,4 @@ This research suite was developed to support next-generation wireless communicat
 
 ---
 
-**Version:** 1.0 | **Last Updated:** January 2026 | **Status:** Production-Ready
+**Version:** 1.0 | **Last Updated:** January 2026 | **Status:** Production-Ready | **Contributor & Maintainer:** Nipun Agarwal
